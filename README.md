@@ -6,4 +6,4 @@
 გამოყენებული მაქვს შემდეგი მოდულები: request module, bs4 module, csv module, time module, random module.
 
 ## WebSite Link
-[Link is here] (https://winegallery.ge/ka)
+[Link is here](https://winegallery.ge/ka)
